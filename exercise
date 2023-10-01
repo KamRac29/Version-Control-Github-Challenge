@@ -1,0 +1,18 @@
+
+
+1)Explain what the terminal is in your own words.
+A terminal is an easier system to use to navigate through your files. You can also create the files in bulk.
+
+
+
+
+
+
+2)What is the major difference between Git and GitHub?
+Git keeps a record of all the code history. Github is for visualizing git history and everything included in a git repository.
+
+
+
+
+3)What are the steps to fork a GitHub repository?
+Go to your repository in your GitHub and click the fork button. To be able to tell them apart you can change the name of the repository.  
